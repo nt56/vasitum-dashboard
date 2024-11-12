@@ -64,7 +64,6 @@ const Dashboard = () => {
             <ScheduleCard title={"Upcoming Schedule"} />
           </div>
         </div>
-        {/* Additional sections for Recent Activity, Announcements, Upcoming Schedule */}
       </main>
     </div>
   );
